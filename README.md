@@ -1,6 +1,6 @@
 # DSA4060XA – Week 6: Evaluating Recommender Systems
 
-**Name:** YOUR NAME HERE
+**Name:** Amy Njenga
 **Student ID:** 668698
 
 ## Lab Objective
